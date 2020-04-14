@@ -28,13 +28,69 @@
 
   #veryTop{
     width: 100%;
-    height: 10vh;
-    background-color: orange;
+    height: 7vh;
+    background-color: black;
   }
 
   #mainHeader{
     width: 100%;
-    height: 60vh;
+    height: 83vh;
+    background-color: darkgray;
 
+  }
+
+  #soapSpot{
+    width: 100%;
+    height: 60vh;
+    background-color: cornsilk;
+    display: flex;
+    flex-direction: row;
+  }
+
+  #soapwords{
+    width: 25vw;
+    height: 58vh;
+    background-color: cornsilk;
+    border: 1px solid grey
+
+  }
+
+
+  #soapSpotOne{
+    width: 25vw;
+    height: 58vh;
+    background-color: cornsilk;
+    border: 1px solid grey
+  }
+
+  #soapSpotTwo{
+    width: 25vw;
+    height: 58vh;
+    background-color: cornsilk;
+    border: 1px solid grey
+  }
+
+  #soapSpotThree{
+    width: 25vw;
+    height: 58vh;
+    background-color: cornsilk;
+    border: 1px solid grey
+  }
+
+
+
+  #noSoapSpot{
+    width: 100%;
+    height: 50vh;
+    background-color: cream;
+
+  }
+
+  #giftKitdiv{
+    width: 100%;
+    height: 60vh;
+    background-color: cornsilk;
+    display: flex;
+    flex-direction: row;
   }
   
