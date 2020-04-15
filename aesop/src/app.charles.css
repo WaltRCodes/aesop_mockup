@@ -177,5 +177,45 @@
     border: 1px solid grey;
     background-image: url("/users/3272/files/80798/preview?verifier=Fmff2MhqtM7wuv1OLkd0n3edUPAmdRJMoZx4M68t")
   }
+#dailyCleansingSection{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  background-color: cornsilk;
+  height: 60vh;
+}
 
+#dailyCleansingAd{
+  width: 25vw;
+  height: 58vh;
+  background-color: cornsilk;
+  border: 1px solid grey
+}
+
+#CleansingPicOne{
+  width: 25vw;
+  height: 58vh;
+  background-color: cornsilk;
+  border: 1px solid grey
+}
+
+#CleansingPicTwo{
+  width: 25vw;
+  height: 58vh;
+  background-color: cornsilk;
+  border: 1px solid grey
+}
+
+#CleansingPicThree{
+  width: 25vw;
+  height: 58vh;
+  background-color: cornsilk;
+  border: 1px solid grey
+}
+
+#emptySection{
+  width: 100%;
+  height: 30vh;
+  background-color: cornsilk;
+}
   

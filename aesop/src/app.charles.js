@@ -42,6 +42,10 @@ export default class charles extends React.Component{
              </div>
                 <div id="giftPic"></div>
         </div>
+        <div id="dailyCleansingSection">
+            <div id="dailyCleansingAd"></div><div id="CleansingPicOne"></div><div id="CleansingPicTwo"></div><div id="CleansingPicThree"></div>
+        </div>
+        <div id="emptySection"></div>
         <div></div>
         </div>
         )
