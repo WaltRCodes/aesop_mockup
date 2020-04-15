@@ -22,7 +22,10 @@ export default class charles extends React.Component{
             <div id="giftKitPic"></div>
         </div>
         <div id="anotherSoapSection">
-            <div></div><div></div><div></div><div></div>
+            <div id="fragrances"></div><div id="fragranceSpotOne"></div><div id="fragranceSpotTwo"></div><div id="fragranceSpotThree"></div>
+        </div>
+        <div id="giftSection">
+            <div id="giftAdvertisement"></div><div id="giftPic"></div>
         </div>
         <div></div>
         </div>
