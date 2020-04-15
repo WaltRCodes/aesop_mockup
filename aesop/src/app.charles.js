@@ -46,7 +46,29 @@ export default class charles extends React.Component{
             <div id="dailyCleansingAd"></div><div id="CleansingPicOne"></div><div id="CleansingPicTwo"></div><div id="CleansingPicThree"></div>
         </div>
         <div id="emptySection"></div>
-        <div></div>
+        <div id="smallTextSpot">
+            <div id="leftSideText"></div><div id="rightSideText"></div>
+        </div>
+        <div id="imageDiv">
+            <div id="divImage">
+
+            </div>
+        </div>
+            <div id="nurturingFormsDiv">
+                <div></div><div></div><div></div><div></div><div></div><div></div>
+            </div>
+            <div id="hugeInfoDiv">
+                <div></div><div></div><div></div>
+            </div>
+        <div id="footer">
+            <div id="emailDiv">
+                <div id="textDiv"></div><div id="emailFieldDiv"></div>
+            </div>
+            <div id="contact"></div>
+            <div id="about"></div>
+            <div id="social"></div>
+        </div>
+        <div id="trademark"></div>
         </div>
         )
     }
