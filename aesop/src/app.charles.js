@@ -65,13 +65,14 @@ export default class charles extends React.Component{
             </div>
         <div id="footer">
             <div id="emailDiv">
-                <div id="textDiv"></div><div id="emailFieldDiv"></div>
+                <div id="textDiv"></div>
+                <div id="emailFieldDiv"><input type="text" value="Email address"></input></div>
             </div>
             <div id="contact"></div>
             <div id="about"></div>
             <div id="social"></div>
         </div>
-        <div id="trademark"></div>
+        <div id="trademarkSection"></div>
         </div>
         )
     }
