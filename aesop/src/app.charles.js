@@ -15,9 +15,15 @@ export default class charles extends React.Component{
         </div>
         <div id="noSoapSpot"></div>
         <div id="giftKitdiv">
-            <div id="giftKitWords"></div><div id="giftKitPic"></div>
+            <div id="giftKitWords">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt <br/>
+            <button>Explore Seasonal gift kits</button>
+            </div>
+          
+            <div id="giftKitPic"></div>
         </div>
-        <div></div>
+        <div id="anotherSoapSection">
+            <div></div><div></div><div></div><div></div>
+        </div>
         <div></div>
         </div>
         )
