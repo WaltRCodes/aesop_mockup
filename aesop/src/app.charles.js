@@ -55,10 +55,13 @@ export default class charles extends React.Component{
             </div>
         </div>
             <div id="nurturingFormsDiv">
-                <div></div><div></div><div></div><div></div><div></div><div></div>
+                <div id="nurDivInfo"></div><div id="nurDivItemOne"></div><div id="nurDivItemTwo"></div><div id="nurDivItemThree"></div><div id="nurDivItemFour"></div><div id="nurDivItemFive"></div>
             </div>
             <div id="hugeInfoDiv">
-                <div></div><div></div><div></div>
+                <div id="soapsAndLinks">
+                  <div id="soapsImgDiv"></div><div id="linksDiv"></div>
+                </div>
+                <div id="hugeInfoQuoteDiv"></div>
             </div>
         <div id="footer">
             <div id="emailDiv">
