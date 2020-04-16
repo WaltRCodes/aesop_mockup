@@ -1,0 +1,426 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300&display=swap');
+
+.App {
+    text-align: center;
+    font-family: 'Manrope', sans-serif;
+  }
+  
+  
+  @media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+  }
+  
+  
+  
+  .App-link {
+    color: #61dafb;
+  }
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
+  
+
+  #veryTop{
+    width: 100%;
+    height: 7vh;
+    background-color: black;
+    color: darkgray;
+    padding-top: 7px;
+    padding-left: 5vw;
+    font-weight: bolder;
+    font-stretch: expanded;
+  }
+
+  #plusSign{
+    padding-left: 12px;
+  }
+
+  #mainHeader{
+    width: 100%;
+    height: 83vh;
+    background-image: url("./images/Aesop-Homepage-Banner.jpg")
+
+  }
+
+
+
+  #soapSpot{
+    width: 100%;
+    height: 60vh;
+    background-color: cornsilk;
+    display: flex;
+    flex-direction: row;
+  }
+
+  #soapwords{
+    width: 25vw;
+    height: 58vh;
+    background-color: cornsilk;
+    border: 1px solid grey
+
+  }
+
+
+  #soapSpotOne{
+    width: 25vw;
+    height: 58vh;
+    background-color: cornsilk;
+    border: 1px solid grey
+  }
+
+  #soapSpotTwo{
+    width: 25vw;
+    height: 58vh;
+    background-color: cornsilk;
+    border: 1px solid grey
+  }
+
+  #soapSpotThree{
+    width: 25vw;
+    height: 58vh;
+    background-color: cornsilk;
+    border: 1px solid grey;
+  }
+
+
+
+  #noSoapSpot{
+    width: 100%;
+    height: 50vh;
+    background-color: cream;
+
+  }
+
+  #giftKitdiv{
+    width: 100%;
+    height: 60vh;
+    background-color: cornsilk;
+    display: flex;
+    flex-direction: row;
+  }
+
+  #giftKitWords{
+    width: 40vw;
+    height: 58vh;
+    border: 1px solid grey;
+    display: flex;
+    flex-direction: column;
+  }
+
+  #giftKitPic{
+    width: 60vw;
+    height: 58vh;
+    border: 1px solid grey;
+  }
+  button{
+    background-color: cornsilk;
+    width: 150px;
+    height: 40px;
+    border: .5px solid grey;
+    margin-left: 30px;
+    margin-top: 12px;
+  }
+
+  #anotherSoapSection{
+    width: 100%;
+    height: 85vh;
+    display: flex;
+    flex-direction: row;
+    background-color: cornsilk;
+  }
+
+  #fragrances{
+    width: 25vw;
+    height: 58vh;
+    background-color: cornsilk;
+    border: 1px solid grey;
+  }
+
+  #fragranceSpotOne{
+    width: 25vw;
+    height: 58vh;
+    background-color: cornsilk;
+    border: 1px solid grey;
+  }
+
+  #fragranceSpotTwo{
+    width: 25vw;
+    height: 58vh;
+    background-color: cornsilk;
+    border: 1px solid grey;
+  }
+
+  #fragranceSpotThree{
+    width: 25vw;
+    height: 58vh;
+    background-color: cornsilk;
+    border: 1px solid grey;
+  }
+
+  #giftSection{
+    display: flex;
+    flex-direction: row;
+    height: 80vh;
+    width: 100%;
+    background-color: cornsilk;
+  }
+
+  #giftAdvertisement{
+    width: 40vw;
+    height: 70vh;
+    background-color: cornsilk;
+    display: flex;
+    flex-direction: column;
+  }
+
+  #giftPic{
+    width: 60vw;
+    height: 70vh;
+    background-color: cornsilk;
+    border: 1px solid grey;
+    background-image: url("/users/3272/files/80798/preview?verifier=Fmff2MhqtM7wuv1OLkd0n3edUPAmdRJMoZx4M68t")
+  }
+#dailyCleansingSection{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  background-color: cornsilk;
+  height: 60vh;
+}
+
+#dailyCleansingAd{
+  width: 25vw;
+  height: 58vh;
+  background-color: cornsilk;
+  border: 1px solid grey
+}
+
+#CleansingPicOne{
+  width: 25vw;
+  height: 58vh;
+  background-color: cornsilk;
+  border: 1px solid grey
+}
+
+#CleansingPicTwo{
+  width: 25vw;
+  height: 58vh;
+  background-color: cornsilk;
+  border: 1px solid grey
+}
+
+#CleansingPicThree{
+  width: 25vw;
+  height: 58vh;
+  background-color: cornsilk;
+  border: 1px solid grey
+}
+
+#emptySection{
+  width: 100%;
+  height: 30vh;
+  background-color: cornsilk;
+}
+
+#smallTextSpot{
+  height: 30vh;
+  width: 100%;
+  background-color: cornsilk;
+  display: flex;
+  flex-direction: row;
+}
+
+#leftSideText{
+  height: 25vh;
+  width: 40vw;
+  background-color: cornsilk;
+}
+
+#rightSideText{
+  height: 25vh;
+  width: 60vw;
+  background-color: cornsilk;
+}
+
+#imageDiv{
+  height: 68vh;
+  width: 100%;
+  background-color: cornsilk;
+}
+
+#divImage{
+  height: 68vh;
+  width: 100%;
+  background-image: url("../src/images/Aesop-Bleecker-Street-Carousel-1-Desktop-2560x1440px.jpg")
+}
+
+#nurturingFormsDiv{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  background-color: cornsilk;
+  height: 60vh;
+}
+
+
+  
+#nurDivInfo{
+  background-color: cornsilk;
+  height: 60vh;
+  width: 16.5vw;
+  border: 1px solid grey
+}
+
+#nurDivItemOne{
+  background-color: cornsilk;
+  height: 60vh;
+  width: 16.5vw;
+  border: 1px solid grey
+}
+
+#nurDivItemTwo{
+  background-color: cornsilk;
+  height: 60vh;
+  width: 16.5vw;
+  border: 1px solid grey
+}
+
+#nurDivItemThree{
+  background-color: cornsilk;
+  height: 60vh;
+  width: 16.5vw;
+  border: 1px solid grey
+}
+
+#nurDivItemFour{
+  background-color: cornsilk;
+  height: 60vh;
+  width: 16.5vw;
+  border: 1px solid grey
+}
+
+#nurDivItemFive{
+  background-color: cornsilk;
+  height: 60vh;
+  width: 16.5vw;
+  border: 1px solid grey
+}
+
+#hugeInfoDiv{
+  height: 75vh;
+  width: 100%;
+  background-color: cornsilk;
+  display: flex;
+  flex-direction: column;
+}
+
+#soapsAndLinks{
+  width: 95%;
+  height: 37.5vh;
+  background-color: cornsilk;
+}
+
+#soapsImgDiv{
+  width: 45vw;
+  height: 36vh;
+}
+
+#linksDiv{
+  width: 45vw;
+  height: 36vh;
+  background-color: cornsilk;
+}
+
+#hugeInfoQuoteDiv{
+ width: 95%;
+ height: 30vh;
+ background-color: cornsilk;
+}
+
+#footer{
+  width: 100%;
+  height: 24vh;
+  background-color: cornsilk;
+  display: flex;
+  flex-direction: row;
+}
+
+#emailDiv{
+  width: 40vw;
+  height: 22vh;
+  background-color: cornsilk;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid grey;
+}
+
+#textDiv{
+  height: 30%;
+  width: 90%;
+  font-family: 'Manrope', sans-serif;
+
+}
+
+#emailFieldDiv{
+  height: 30%;
+  width: 90%;
+  background-color: cornsilk;
+  padding-top: 1.5vh;
+
+}
+input{
+  background-color: cornsilk;
+  padding-right: 11vw;
+
+}
+
+#contact{
+  width: 20vw;
+  height: 22vh;
+  background-color: cornsilk;
+  border: 1px solid grey;
+}
+
+#about{
+  width: 20vw;
+  height: 22vh;
+  background-color: cornsilk;
+  border: 1px solid grey;
+}
+
+#social{
+  width: 20vw;
+  height: 22vh;
+  background-color: cornsilk;
+  border: 1px solid grey;
+}
+
+#trademarkSection{
+  width: 100%;
+  height: 7vh;
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+}
+
+#trademarkName{
+  background-color: black;
+  width: 15vw;
+  color: grey;
+}
+
+#unitedStates{
+  background-color: black;
+  width: 15vw;
+  color: grey;
+  padding-left: 65%
+}

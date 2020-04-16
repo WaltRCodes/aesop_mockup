@@ -1,4 +1,6 @@
 import React from 'react';
+import './app.charles.css';
+import Charles from './app.charles'
 import logo from './logo.svg';
 import './AppWalter.css';
 import Modal from './components/Modal';
@@ -15,6 +17,7 @@ function App() {
     <div className="App">
       <FadeIn />
       <a id="hoverThis" className="FadeIn" href="#">test modal display</a>
+      <Charles />
       <Modal />
       <Scrollbar num={0} ImageOne={ImageOne} ImageTwo={ImageTwo} ImageThree={ImageThree} ImageFour={ImageFour} ImageFive={ImageFive}/>
       <Scrollbar num={1} ImageOne={ImageOne} ImageTwo={ImageTwo} ImageThree={ImageThree} ImageFour={ImageFour} ImageFive={ImageFive}/>
