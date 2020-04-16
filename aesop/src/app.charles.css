@@ -464,19 +464,21 @@ input{
 
 #trademarkSection{
   width: 100%;
-  height: 7vh;
+  height: 10vh;
   background-color: black;
   display: flex;
   flex-direction: row;
 }
 
 #trademarkName{
+  margin: 25px;
   background-color: black;
   width: 15vw;
   color: grey;
 }
 
 #unitedStates{
+  margin: 25px;
   background-color: black;
   width: 15vw;
   color: grey;
