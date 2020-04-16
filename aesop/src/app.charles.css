@@ -33,11 +33,15 @@
     width: 100%;
     height: 7vh;
     background-color: black;
-    color: grey;
+    color: darkgray;
     padding-top: 7px;
     padding-left: 5vw;
     font-weight: bolder;
     font-stretch: expanded;
+  }
+
+  #plusSign{
+    padding-left: 12px;
   }
 
   #mainHeader{
