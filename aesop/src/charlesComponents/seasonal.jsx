@@ -9,7 +9,7 @@ export default class Seasonal extends React.Component{
         return(
             <div id="giftKitdiv">
             <div id="giftKitWords">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt <br/>
-            <button>Explore Seasonal gift kits</button>
+            <button>Explore Seasonal gift kits &rarr;</button>
             </div>
           
             <div id="giftKitPic"></div>
