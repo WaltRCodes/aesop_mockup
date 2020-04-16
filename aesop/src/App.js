@@ -31,7 +31,6 @@ function App() {
   return (
     <div className="App">
       <FadeIn />
-      <a id="hoverThis" className="FadeIn" href="#">test modal display</a>
       <Top />
       <Modal />
       <Banner />
