@@ -35,7 +35,7 @@ import ImageSixteen from './images/staple_products/Aesop-Body-Resurrection-Aroma
 import ImageSeventeen from './images/staple_products/Aesop-Hand-Resurrection-Aromatique-Hand-Wash-500mL-large.png';
 import ImageEightteen from './images/staple_products/Aesop-Skin-Camellia-Nut-Facial-Hydrating-Cream-60mL-large.png';
 import ImageNineteen from './images/staple_products/Aesop-Skin-Purifying-Facial-Exfoliant-Paste-75mL-large.png';
-import ImageEighteen from './images/staple_products/Large-PNG-Aesop-Personal-Deodorant-50mL-large.png';
+import ImageTwenty from './images/staple_products/Large-PNG-Aesop-Personal-Deodorant-50mL-large.png';
 
 {/*all images are passed into scrollbar in order to make it reusable*/}
 function App() {
@@ -48,12 +48,12 @@ function App() {
       <Scrollbar num={0} ImageOne={ImageOne} ImageTwo={ImageTwo} ImageThree={ImageThree} ImageFour={ImageFour} ImageFive={ImageFive}/>
       <EmptySpace />
       <Seasonal />
-      <Scrollbar num={1} ImageOne={ImageOne} ImageTwo={ImageTwo} ImageThree={ImageThree} ImageFour={ImageFour} ImageFive={ImageFive}/>
+      <Scrollbar num={1} ImageOne={ImageSix} ImageTwo={ImageSeven} ImageThree={ImageEight} ImageFour={ImageNine} ImageFive={ImageTen}/>
       <GiftSpot />
-      <Scrollbar num={2} ImageOne={ImageOne} ImageTwo={ImageTwo} ImageThree={ImageThree} ImageFour={ImageFour} ImageFive={ImageFive}/>
+      <Scrollbar num={2} ImageOne={ImageEleven} ImageTwo={ImageTwelve} ImageThree={ImageThirteen} ImageFour={ImageFourteen} ImageFive={ImageFifthteen}/>
       <FindStore />
       <Image />
-      <Scrollbar num={3} ImageOne={ImageOne} ImageTwo={ImageTwo} ImageThree={ImageThree} ImageFour={ImageFour} ImageFive={ImageFive}/>
+      <Scrollbar num={3} ImageOne={ImageSixteen} ImageTwo={ImageSeventeen} ImageThree={ImageEightteen} ImageFour={ImageNineteen} ImageFive={ImageTwenty}/>
       <Info />
       <Footer />
       <Bottom />
