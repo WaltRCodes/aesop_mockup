@@ -1,7 +1,7 @@
 import React from 'react';
 import '../app.charles.css';
 
-export default class Footer extends React.Component{
+export default class Bottom extends React.Component{
     constructor(props){
         super(props)
     }
