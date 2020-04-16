@@ -8,7 +8,7 @@ export default class charles extends React.Component{
     render(){
         return(
             <div>
-        <div id="veryTop"></div>
+        <div id="veryTop">Complimentary standard shipping on every order &#43;</div>
         <div id="mainHeader"></div>
         <div id="soapSpot">
             <div id="soapwords"></div><div id="soapSpotOne"></div><div id="soapSpotTwo"></div><div id="soapSpotThree"></div>

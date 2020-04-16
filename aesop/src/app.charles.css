@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300&display=swap');
+
 .App {
     text-align: center;
+    font-family: 'Manrope', sans-serif;
   }
   
   
@@ -30,6 +33,11 @@
     width: 100%;
     height: 7vh;
     background-color: black;
+    color: grey;
+    padding-top: 7px;
+    padding-left: 5vw;
+    font-weight: bolder;
+    font-stretch: expanded;
   }
 
   #mainHeader{
@@ -354,6 +362,8 @@
 #textDiv{
   height: 30%;
   width: 90%;
+  font-family: 'Manrope', sans-serif;
+
 }
 
 #emailFieldDiv{
