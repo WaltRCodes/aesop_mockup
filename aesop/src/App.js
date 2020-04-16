@@ -1,7 +1,6 @@
 import React from 'react';
 import './app.charles.css';
 import Charles from './app.charles'
-import logo from './logo.svg';
 import './AppWalter.css';
 import Modal from './components/Modal';
 import Scrollbar from './components/Scrollbar';
