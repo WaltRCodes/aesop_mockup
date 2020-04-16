@@ -7,7 +7,11 @@ export default class Banner extends React.Component{
     }
     render(){
         return(
-<div id="mainHeader"></div>
+<div id="mainHeader">
+    <div id="navBar">
+        <div id="leftBar"></div>Shop Read Stores Search<div id="login">Login &#9864;</div>
+    </div>
+</div>
         )
     }
 }
