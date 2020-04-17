@@ -12,8 +12,6 @@
     }
   }
   
-  
-  
   .App-link {
     color: #61dafb;
   }
@@ -27,8 +25,6 @@
     }
   }
   
-  
-
   #veryTop{
     width: 100%;
     height: 7vh;
@@ -92,7 +88,7 @@
   }
 
   #underCenter{
-padding-bottom: 90px;  }
+  padding-bottom: 90px;  }
 
   #bannerMiddle{
     margin-left: 300px;
@@ -138,11 +134,9 @@ padding-bottom: 90px;  }
     border: 1px solid grey;
   }
 
-
-
   #noSoapSpot{
     width: 100%;
-    height: 50vh;
+    height: 30vh;
     background-color: #FFFEF3;
 
   }
@@ -156,17 +150,19 @@ padding-bottom: 90px;  }
   }
 
   #giftKitWords{
+    margin-left: 20px;
     width: 40vw;
     height: 58vh;
-    border: 1px solid grey;
+    /* border: 1px solid grey; */
     display: flex;
     flex-direction: column;
+    text-align: left;
   }
 
   #giftKitPic{
     width: 60vw;
     height: 58vh;
-    border: 1px solid grey;
+    /* border: 1px solid grey; */
     background-image: url("./images/Aesop-Gift-Kits-2019-20-Hybris-Range-Page-Secondary-Mid-Desktop-1690x945px.png");
     background-position: 50%;
     background-position: 100%;
@@ -177,7 +173,7 @@ padding-bottom: 90px;  }
     width: 150px;
     height: 40px;
     border: .5px solid grey;
-    margin-left: 30px;
+    margin-left: 0px;
     margin-top: 12px;
   }
 
@@ -193,31 +189,31 @@ padding-bottom: 90px;  }
     width: 25vw;
     height: 58vh;
     background-color: #FFFEF3;
-    border: 1px solid grey;
+    /* border: 1px solid grey; */
   }
 
   #fragranceSpotOne{
     width: 25vw;
     height: 58vh;
     background-color: #FFFEF3;
-    border: 1px solid grey;
+    /* border: 1px solid grey; */
   }
 
-  #fragranceSpotTwo{
+#fragranceSpotTwo{
     width: 25vw;
     height: 58vh;
     background-color: #FFFEF3;
-    border: 1px solid grey;
+    /* border: 1px solid grey; */
   }
 
-  #fragranceSpotThree{
+#fragranceSpotThree{
     width: 25vw;
     height: 58vh;
     background-color: #FFFEF3;
-    border: 1px solid grey;
+    /* border: 1px solid grey; */
   }
 
-  #giftSection{
+#giftSection{
     display: flex;
     flex-direction: row;
     height: 80vh;
@@ -225,7 +221,7 @@ padding-bottom: 90px;  }
     background-color: #FFFEF3;
   }
 
-  #giftAdvertisement{
+#giftAdvertisement{
     width: 40vw;
     height: 70vh;
     background-color: #FFFEF3;
@@ -233,13 +229,15 @@ padding-bottom: 90px;  }
     flex-direction: column;
   }
 
-  #giftPic{
+#giftPic{
     width: 60vw;
     height: 70vh;
     background-color: #FFFEF3;
-    border: 1px solid grey;
-    background-image: url("/users/3272/files/80798/preview?verifier=Fmff2MhqtM7wuv1OLkd0n3edUPAmdRJMoZx4M68t");
+    /* border: 1px solid grey; */
+    background-image: url("./images/missing_image.png");
+    background-repeat: no-repeat; 
   }
+
 #dailyCleansingSection{
   width: 100%;
   display: flex;

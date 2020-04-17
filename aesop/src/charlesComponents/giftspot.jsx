@@ -9,6 +9,8 @@ export default class GiftSpot extends React.Component{
         return(
             <div id="giftSection">
             <div id="giftAdvertisement"><h3>An odyssey of gifts, for generous and<br/>inspred giving</h3>
+                <br/>
+                <br/>
                 <div id="giftAdLinkOne">Seasonal Gift Kits</div>
                 <br/>
                 <div id="giftAdLinkTwo">Aesop favorites</div>
@@ -23,7 +25,9 @@ export default class GiftSpot extends React.Component{
                 <br/>
                 <div id="giftAdLinkSeven">All gifts</div>
              </div>
-                <div id="giftPic"></div>
+                <div id="giftPic">
+                    {/* <img src={"./images/missing_image.png"}/> */}
+                </div>
         </div>
         )
     }
