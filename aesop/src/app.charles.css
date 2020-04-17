@@ -103,7 +103,7 @@ padding-bottom: 90px;  }
   #soapSpot{
     width: 100%;
     height: 60vh;
-    background-color: cornsilk;
+    background-color: #FFFEF3;
     display: flex;
     flex-direction: row;
   }
@@ -111,7 +111,7 @@ padding-bottom: 90px;  }
   #soapwords{
     width: 25vw;
     height: 58vh;
-    background-color: cornsilk;
+    background-color: #FFFEF3;
     border: 1px solid grey
 
   }
@@ -120,21 +120,21 @@ padding-bottom: 90px;  }
   #soapSpotOne{
     width: 25vw;
     height: 58vh;
-    background-color: cornsilk;
+    background-color: #FFFEF3;
     border: 1px solid grey
   }
 
   #soapSpotTwo{
     width: 25vw;
     height: 58vh;
-    background-color: cornsilk;
+    background-color: #FFFEF3;
     border: 1px solid grey
   }
 
   #soapSpotThree{
     width: 25vw;
     height: 58vh;
-    background-color: cornsilk;
+    background-color: #FFFEF3;
     border: 1px solid grey;
   }
 
@@ -143,14 +143,14 @@ padding-bottom: 90px;  }
   #noSoapSpot{
     width: 100%;
     height: 50vh;
-    background-color: cornsilk;
+    background-color: #FFFEF3;
 
   }
 
   #giftKitdiv{
     width: 100%;
     height: 60vh;
-    background-color: cornsilk;
+    background-color: #FFFEF3;
     display: flex;
     flex-direction: row;
   }
@@ -173,7 +173,7 @@ padding-bottom: 90px;  }
     background-size: 100%;
   }
   button{
-    background-color: cornsilk;
+    background-color: #FFFEF3;
     width: 150px;
     height: 40px;
     border: .5px solid grey;
@@ -186,34 +186,34 @@ padding-bottom: 90px;  }
     height: 85vh;
     display: flex;
     flex-direction: row;
-    background-color: cornsilk;
+    background-color: #FFFEF3;
   }
 
   #fragrances{
     width: 25vw;
     height: 58vh;
-    background-color: cornsilk;
+    background-color: #FFFEF3;
     border: 1px solid grey;
   }
 
   #fragranceSpotOne{
     width: 25vw;
     height: 58vh;
-    background-color: cornsilk;
+    background-color: #FFFEF3;
     border: 1px solid grey;
   }
 
   #fragranceSpotTwo{
     width: 25vw;
     height: 58vh;
-    background-color: cornsilk;
+    background-color: #FFFEF3;
     border: 1px solid grey;
   }
 
   #fragranceSpotThree{
     width: 25vw;
     height: 58vh;
-    background-color: cornsilk;
+    background-color: #FFFEF3;
     border: 1px solid grey;
   }
 
@@ -222,13 +222,13 @@ padding-bottom: 90px;  }
     flex-direction: row;
     height: 80vh;
     width: 100%;
-    background-color: cornsilk;
+    background-color: #FFFEF3;
   }
 
   #giftAdvertisement{
     width: 40vw;
     height: 70vh;
-    background-color: cornsilk;
+    background-color: #FFFEF3;
     display: flex;
     flex-direction: column;
   }
@@ -236,7 +236,7 @@ padding-bottom: 90px;  }
   #giftPic{
     width: 60vw;
     height: 70vh;
-    background-color: cornsilk;
+    background-color: #FFFEF3;
     border: 1px solid grey;
     background-image: url("/users/3272/files/80798/preview?verifier=Fmff2MhqtM7wuv1OLkd0n3edUPAmdRJMoZx4M68t");
   }
@@ -244,48 +244,48 @@ padding-bottom: 90px;  }
   width: 100%;
   display: flex;
   flex-direction: row;
-  background-color: cornsilk;
+  background-color: #FFFEF3;
   height: 60vh;
 }
 
 #dailyCleansingAd{
   width: 25vw;
   height: 58vh;
-  background-color: cornsilk;
+  background-color: #FFFEF3;
   border: 1px solid grey
 }
 
 #CleansingPicOne{
   width: 25vw;
   height: 58vh;
-  background-color: cornsilk;
+  background-color: #FFFEF3;
   border: 1px solid grey
 }
 
 #CleansingPicTwo{
   width: 25vw;
   height: 58vh;
-  background-color: cornsilk;
+  background-color: #FFFEF3;
   border: 1px solid grey
 }
 
 #CleansingPicThree{
   width: 25vw;
   height: 58vh;
-  background-color: cornsilk;
+  background-color: #FFFEF3;
   border: 1px solid grey
 }
 
 #emptySection{
   width: 100%;
   height: 30vh;
-  background-color: cornsilk;
+  background-color: #FFFEF3;
 }
 
 #smallTextSpot{
   height: 30vh;
   width: 100%;
-  background-color: cornsilk;
+  background-color: #FFFEF3;
   display: flex;
   flex-direction: row;
 }
@@ -293,19 +293,19 @@ padding-bottom: 90px;  }
 #leftSideText{
   height: 25vh;
   width: 40vw;
-  background-color: cornsilk;
+  background-color: #FFFEF3;
 }
 
 #rightSideText{
   height: 25vh;
   width: 60vw;
-  background-color: cornsilk;
+  background-color: #FFFEF3;
 }
 
 #imageDiv{
   height: 68vh;
   width: 100%;
-  background-color: cornsilk;
+  background-color: #FFFEF3;
 }
 
 #divImage{
@@ -320,49 +320,49 @@ padding-bottom: 90px;  }
   width: 100%;
   display: flex;
   flex-direction: row;
-  background-color: cornsilk;
+  background-color: #FFFEF3;
   height: 60vh;
 }
 
 
   
 #nurDivInfo{
-  background-color: cornsilk;
+  background-color: #FFFEF3;
   height: 60vh;
   width: 16.5vw;
   border: 1px solid grey
 }
 
 #nurDivItemOne{
-  background-color: cornsilk;
+  background-color: #FFFEF3;
   height: 60vh;
   width: 16.5vw;
   border: 1px solid grey
 }
 
 #nurDivItemTwo{
-  background-color: cornsilk;
+  background-color: #FFFEF3;
   height: 60vh;
   width: 16.5vw;
   border: 1px solid grey
 }
 
 #nurDivItemThree{
-  background-color: cornsilk;
+  background-color: #FFFEF3;
   height: 60vh;
   width: 16.5vw;
   border: 1px solid grey
 }
 
 #nurDivItemFour{
-  background-color: cornsilk;
+  background-color: #FFFEF3;
   height: 60vh;
   width: 16.5vw;
   border: 1px solid grey
 }
 
 #nurDivItemFive{
-  background-color: cornsilk;
+  background-color: #FFFEF3;
   height: 60vh;
   width: 16.5vw;
   border: 1px solid grey
@@ -371,7 +371,7 @@ padding-bottom: 90px;  }
 #hugeInfoDiv{
   height: 75vh;
   width: 100%;
-  background-color: cornsilk;
+  background-color: #FFFEF3;
   display: flex;
   flex-direction: column;
   /* border: 5px solid green; */
@@ -382,7 +382,7 @@ padding-bottom: 90px;  }
 #soapsAndLinks{
   width: 100%;
   height: 37.5vh;
-  background-color: cornsilk;
+  background-color: #FFFEF3;
   /* border: 1px solid red; */
   display: flex;
   flex-direction:row;
@@ -403,7 +403,7 @@ padding-bottom: 90px;  }
   flex-direction:row;
   width: 50%;
   height: 36vh;
-  background-color: cornsilk;
+  background-color: #FFFEF3;
   color: black ;
   /* border: 5px dotted orange; */
 }
@@ -414,7 +414,7 @@ padding-bottom: 90px;  }
 #hugeInfoQuoteDiv{
  width:100%;
  height: 500px;
- background-color: cornsilk;
+ background-color: #FFFEF3;
  /* border: 3px solid purple; */
  margin: 100px;
  font-size: 20px;
@@ -424,7 +424,7 @@ padding-bottom: 90px;  }
 #footer{
   width: 100%;
   height: 24vh;
-  background-color: cornsilk;
+  background-color: #FFFEF3;
   display: flex;
   flex-direction: row;
 }
@@ -432,7 +432,7 @@ padding-bottom: 90px;  }
 #emailDiv{
   width: 40vw;
   height: 22vh;
-  background-color: cornsilk;
+  background-color: #FFFEF3;
   display: flex;
   flex-direction: column;
   border: 1px solid grey;
@@ -448,12 +448,12 @@ padding-bottom: 90px;  }
 #emailFieldDiv{
   height: 30%;
   width: 90%;
-  background-color: cornsilk;
+  background-color: #FFFEF3;
   padding-top: 1.5vh;
 
 }
 input{
-  background-color: cornsilk;
+  background-color: #FFFEF3;
   padding-right: 11vw;
 
 }
@@ -461,21 +461,21 @@ input{
 #contact{
   width: 20vw;
   height: 22vh;
-  background-color: cornsilk;
+  background-color: #FFFEF3;
   border: 1px solid grey;
 }
 
 #about{
   width: 20vw;
   height: 22vh;
-  background-color: cornsilk;
+  background-color: #FFFEF3;
   border: 1px solid grey;
 }
 
 #social{
   width: 20vw;
   height: 22vh;
-  background-color: cornsilk;
+  background-color: #FFFEF3;
   border: 1px solid grey;
 }
 
