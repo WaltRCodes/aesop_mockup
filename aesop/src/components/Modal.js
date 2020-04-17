@@ -24,7 +24,20 @@ class Modal extends Component {
               <div className="modalSideBar">
                 
                 <span className="thex">&times;</span>
-                some text inside
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <h3>Shipping fees and delivery times</h3>
+                <h3>Shipping Standard Complimentary</h3>
+                <p>2-4 business days</p>
+                <p>Order by December 16, 11:59pm EDT to ensure deliver</p>
+                <p>by December 24th</p>
+                <h3>Next day shipping $35</h3>
+                <p>Order by 12 ET for delivery on the next working day</p>
               </div>
             </div>
           );
