@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import '../App.css';
 {/*https://www.w3schools.com/howto/howto_css_menu_horizontal_scroll.asp*/}
 {/*https://stackoverflow.com/questions/46233598/how-to-control-an-elements-scrollbar-in-javascript*/}
 {/* https://www.w3schools.com/jsref/prop_style_position.asp */}
@@ -72,7 +73,7 @@ class Scrollbar extends Component {
     
     render() {
         return (
-            <div>
+            <div id="scrollBar">
                 <div className="scrollBar FadeIn">
                     <button className="LeftButton">&#8592;</button>
                     <img src={this.props.ImageOne} height="400px"/>

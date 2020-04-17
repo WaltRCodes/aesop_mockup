@@ -5,15 +5,11 @@ import Top from './charlesComponents/top.jsx';
 import Banner from './charlesComponents/banner.jsx';
 import Bottom from './charlesComponents/footer.jsx';
 import EmptySpace from './charlesComponents/empty.jsx';
-import SoapSpot from './charlesComponents/soapspot.jsx';
 import Seasonal from './charlesComponents/seasonal';
-import SoapSpotTwo from './charlesComponents/soapspottwo';
 import GiftSpot from './charlesComponents/giftspot';
-import SoapSpotThree from './charlesComponents/soapspotthree';
 import FindStore from './charlesComponents/findstore';
 import Image from './charlesComponents/image';
 import Info from './charlesComponents/info';
-import Charles from './app.charles'
 import './AppWalter.css';
 import Modal from './components/Modal';
 import Scrollbar from './components/Scrollbar';
