@@ -136,7 +136,7 @@
 
   #noSoapSpot{
     width: 100%;
-    height: 30vh;
+    height: 20vh;
     background-color: #FFFEF3;
 
   }
@@ -235,6 +235,7 @@
     background-color: #FFFEF3;
     /* border: 1px solid grey; */
     background-image: url("./images/missing_image.png");
+    background-size: contain;
     background-repeat: no-repeat; 
   }
 
