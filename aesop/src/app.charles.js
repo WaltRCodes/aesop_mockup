@@ -10,12 +10,49 @@ export default class Footer extends React.Component{
             <div>
         <div id="footer">
             <div id="emailDiv">
-                <div id="textDiv">I would like to receive communications about Aesop procucts, services, stores, events and matters</div>
+                <div id="textDiv">Subscribe</div>
                 <div id="emailFieldDiv"><input type="text" value="Email address"></input></div>
             </div>
-            <div id="contact"></div>
-            <div id="about"></div>
-            <div id="social"></div>
+            <div id="contact">
+                <br></br>
+                    Orders & Support
+                <br></br>
+                <br></br>
+                    Contact us
+                <br></br>
+                    FAQs
+                <br></br>
+                    Delivery and Returns
+                <br></br>
+                    Track your order
+            </div>
+
+            <div id="about">
+            <br></br>
+                    Orders & Support
+                <br></br>
+                <br></br>
+                    Contact us
+                <br></br>
+                    FAQs
+                <br></br>
+                    Delivery and Returns
+                <br></br>
+                    Track your order
+            </div>
+            <div id="social">
+            <br></br>
+                    About
+                <br></br>
+                <br></br>
+                    Our Story 
+                <br></br>
+                    Careers
+                <br></br>
+                    Press 
+                <br></br>
+                    Coorperate gifts 
+            </div>
         </div>
         </div>
         )
