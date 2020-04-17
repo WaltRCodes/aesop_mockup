@@ -1,4 +1,5 @@
 *{
+    /* background-color: #FFFEF3; */
     padding: 0;
     margin: 0;
 }
@@ -6,9 +7,15 @@
     width: 100%;
 }
 #hoverThis{
+    border: solid;
+    border: white;
+    color: white;
     text-align: center;
+    font-size:30px;
     width: 100%;
-    padding:300px;
+    padding:500px;
+    margin-left: 100px;
+    background-color: rgba(0, 0, 0, 0.824); 
 }
 .modal{
     background-color: rgba(0,0,0,0.4);
@@ -22,21 +29,21 @@
     left:0;
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    color:white;
+    color:black;
     transition: all 1s;
 }
 .modalSideBar{
     width:50%;
     height: 100%;
     position: fixed;
-    background-color: blue;
+    background-color: #FFFEF3;
     animation-name: slideIn;
     animation-duration: 1s;
     transition: all 1s;
 }
 
 .thex {
-    color: white;
+    color: black;
     float: right;
     font-size: 28px;
     font-weight: bold;
@@ -48,6 +55,7 @@
 }
 
 .scrollBar{
+    background-color: #FFFEF3;
     display:flex;
     flex-direction: row;
     overflow-x: scroll;
@@ -57,7 +65,7 @@
 
 .LeftButton{
     position: fixed;
-    background:black;
+    background: rgba(0, 0, 0, 0.824);
     color:white;
     padding: 25px;
     margin-top: 15%;
@@ -67,7 +75,7 @@
 }
 .RightButton{
     position: sticky;
-    background:black;
+    background:rgba(0, 0, 0, 0.824);
     color:white;
     padding: 25px;
     margin-top: 15%;
